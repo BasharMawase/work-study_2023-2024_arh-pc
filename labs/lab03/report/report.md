@@ -2,7 +2,7 @@
 ## Front matter
 title: "Шаблон отчёта по лабораторной работе"
 subtitle: "Простейший вариант"
-author: "Дмитрий Сергеевич Кулябов"
+author: "Маваси Башар"
 
 ## Generic otions
 lang: ru-RU
